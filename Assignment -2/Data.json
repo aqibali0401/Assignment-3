@@ -1,0 +1,26 @@
+[{
+        "name": "Iphone",
+        "pice": 1200,
+        "desc": "this is good phone"
+    },
+    {
+        "name": "Macbook Air",
+        "pice": 2200,
+        "desc": "this is good laptop"
+    },
+    {
+        "name": "Apple watch",
+        "pice": 500,
+        "desc": "this is good watch"
+    },
+    {
+        "name": "Rebok shoo",
+        "pice": 1000,
+        "desc": "this is good shoo"
+    },
+    {
+        "name": "Jeans",
+        "pice": 900,
+        "desc": "this is good pant"
+    }
+]
